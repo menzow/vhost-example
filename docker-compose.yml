@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  webapp:
+    build: .
+    network_mode: "bridge"
+    
+    volumes_from:
+      - container:vhost_storage
