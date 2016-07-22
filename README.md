@@ -2,7 +2,7 @@
 
 In this repository you can find a example image that shows how to run multiple virtualhosts on one machine using docker. 
 
-It contains a standalone apache2 server that can expose port 80 or 443 on the host machine. If you want to multiple virtualhosts on one hostmachine you can use the [vhost-server](https://github.com/menzow/vhost-server) and [vhost-storage](https://github.com/menzow/vhost-storage) images.
+It contains a standalone apache2 server that can expose port 80 or 443 on the host machine. If you want to multiple virtualhosts on one host machine you can use the [vhost-server](https://github.com/menzow/vhost-server) and [vhost-storage](https://github.com/menzow/vhost-storage) images.
 
 You can find more information on how to set everything up on my blog: https://menzo.io
 
