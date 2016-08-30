@@ -6,8 +6,6 @@ It contains a standalone apache2 server that can expose port 80 or 443 on the ho
 
 You can find more information on how to set everything up on my blog: https://menzo.io
 
-
-
 ## License
 
 Copyright (c) Menzo Wijmenga. https://menzo.io
